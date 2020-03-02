@@ -9,3 +9,6 @@ This repository contains:
 - [A brief presentation of SVM](SVM_BriefPres.pdf)
 - [A semantic segmentation example](PrjD1_SemanticSeg.ipynb)
 - [Homework #3](To be announced on Wed)
+
+Midterm poll
+https://docs.google.com/forms/d/1NaPh4TQ6LDGJruAZ3kFKSzBfuLQc6p-DRlzwHPcLx-c/edit
