@@ -8,7 +8,7 @@ This repository contains:
 - [Cross validation and parameter optimization](PrjC2_EuroSat_Classification_CV.ipynb)
 - [A brief presentation of SVM](SVM_BriefPres.pdf)
 - [A semantic segmentation example](PrjD1_SemanticSeg.ipynb)
-- [Homework #3](To be announced on Wed)
+- [Homework #4](Coming very soon!)
 
 Midterm poll
 https://docs.google.com/forms/d/1NaPh4TQ6LDGJruAZ3kFKSzBfuLQc6p-DRlzwHPcLx-c/edit
